@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{148:function(t,e,n){"use strict";n.r(e);var i=n(0),a=n.n(i),c=n(159);n(160);e.default=function(){return a.a.createElement(c.c,{title:"404",subtitle:"NOT FOUND",details:"我們未能找到你需要的頁面"})}}}]);
+//# sourceMappingURL=component---src-pages-404-js-5b0de70c7d69a8aab023.js.map
