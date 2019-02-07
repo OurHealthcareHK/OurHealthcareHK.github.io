@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{148:function(e,t,a){"use strict";a.r(t);var n=a(0),c=a.n(n),r=a(238),s=a.n(r),i=a(158);a(159);t.default=function(){return c.a.createElement(i.e.Row,{cards:!0,alignItems:"center"},c.a.createElement(i.e.Col,null,c.a.createElement("img",{src:s.a}),c.a.createElement(i.d,{title:"404",subtitle:"NOT FOUND",details:"我們未能找到你需要的頁面"})))}},238:function(e,t,a){e.exports=a.p+"static/empty-e181915d9673ea46ada9ac6b17773635.svg"}}]);
+//# sourceMappingURL=component---src-pages-404-js-5dd50c9e88b70af31ae2.js.map
