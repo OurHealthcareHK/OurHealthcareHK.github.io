@@ -3,6 +3,7 @@
 <url> <loc>https://ourhealthcarehk.github.io/data/AEDsurveillance/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ourhealthcarehk.github.io/data/FLUExpress/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ourhealthcarehk.github.io/data/GOPCmap/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ourhealthcarehk.github.io/data/patientinfo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ourhealthcarehk.github.io/data/privateOPDprice/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ourhealthcarehk.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
